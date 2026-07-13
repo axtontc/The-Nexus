@@ -10,7 +10,7 @@ metadata:
 
 # Local Intelligence Hub (Nexus)
 
-The Local Intelligence Hub consolidates four disparate Ollama agentic tools into a single, mathematically optimal monolithic architecture.
+The Local Intelligence Hub is a Monolithic API Server for Ollama that unifies System Mapping, Task Farming, Local Consultation, and Tool Orchestration into a single, high-performance architecture.
 
 ## Modes of Operation
 
