@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nexus-hub"
+version = "1.0.0"
+description = "The Local Intelligence Hub. A Monolithic API Server for Ollama."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+  { name = "Axton Carroll" }
+]
+dependencies = [
+    "requests",
+    "chromadb"
+]
+
+[project.scripts]
+nexus = "nexus.cli:main"
