@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A unified Monolithic API Server for Ollama. The Nexus Hub provides a mathematically optimal architecture for System Mapping, Task Farming, Local Consultation, and Tool Orchestration, derived by the Multiverse Planner.
+A unified Monolithic API Server for Ollama. The Nexus Hub provides the architecture for System Mapping, Task Farming, Local Consultation, and Tool Orchestration, derived by the Multiverse Planner.
 
 [Installation](#installation) •
 [Usage](#usage) •
